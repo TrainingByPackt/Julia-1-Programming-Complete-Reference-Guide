@@ -13,6 +13,7 @@ Beginning with an introduction to the language, this Learning Path illustrates h
 By the end of this Learning Path, you’ll be well versed with Julia and have the skills you need to leverage its high speed and efficiency for your applications.
 
 This Learning Path includes content from the following Packt products:
+
 • Julia 1.0 Programming - Second Edition by Ivo Balbaert
 • Julia Programming Projects by Adrian Salceanu
 
