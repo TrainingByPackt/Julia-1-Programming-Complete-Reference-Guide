@@ -14,8 +14,8 @@ By the end of this Learning Path, you’ll be well versed with Julia and have th
 
 This Learning Path includes content from the following Packt products:
 
-• Julia 1.0 Programming - Second Edition by Ivo Balbaert
-• Julia Programming Projects by Adrian Salceanu
+* Julia 1.0 Programming - Second Edition by Ivo Balbaert
+* Julia Programming Projects by Adrian Salceanu
 
 
 ## What you will learn
