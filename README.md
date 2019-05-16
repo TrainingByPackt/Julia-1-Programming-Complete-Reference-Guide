@@ -31,10 +31,10 @@ This Learning Path includes content from the following Packt products:
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
-* **Processor**: Intel Core 2 Duo E4300 1.8GHz or equivalent
-* **Memory**: 2GB RAM
+* **Processor**: Intel Core i5 or equivalent
+* **Memory**: 8GB RAM
 * **Graphics**: NVIDIA GeForce 7800 GS or equivalent
-* **Hard Disk**: 2 GB or more
+* **Hard Disk**: 10GB or more
 
 
 ### Software requirements
