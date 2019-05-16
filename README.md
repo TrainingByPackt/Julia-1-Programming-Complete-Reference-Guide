@@ -34,7 +34,7 @@ For an optimal student experience, we recommend the following hardware configura
 * **Processor**: Intel Core i5 or equivalent
 * **Memory**: 8GB RAM
 * **Graphics**: NVIDIA GeForce 7800 GS or equivalent
-* **Hard Disk**: 10GB or more
+* **Hard Disk**: 40GB or more
 
 
 ### Software requirements
