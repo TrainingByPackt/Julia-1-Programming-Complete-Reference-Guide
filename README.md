@@ -6,9 +6,11 @@
 
 
 # Julia 1.0 Programming Complete Reference Guide
-Julia offers the high productivity and ease of use of Python and R with the lightning-fast speed of C++. There’s never been a better time to learn this language, thanks to its large-scale adoption across a wide range of domains, right from fintech, to biotech, and artificial intelligence (AI).
+Julia offers the high productivity and ease of use of Python and R with the lightning-fast speed of C++. There’s never been a better time to learn this language, thanks to its large-scale adoption across a wide range of domains, including fintech, biotech and artificial intelligence (AI).
 
-Beginning with an introduction to the language, this Learning Path illustrates how you can analyze the Iris dataset using DataFrames. With the help of practical examples, you’ll also get to grips with arrays and matrices, in addition to understanding how type conversions and promotions work. As you cover more chapters, you’ll explore functions, methods, and multiple dispatches while building a web scraper and a web app. Further on, you’ll delve into machine learning, where you'll discover how to build a book recommendation system. After metaprogramming, the concluding topics will help you gain insights into dates and time, time series analysis, visualization, and forecasting.
+You will begin by learning how to set up a running Julia platform, before exploring its various built-in types. This Learning Path walks you through two important collection types: arrays and matrices. You’ll be taken through how type conversions and promotions work, and in further chapters you'll study how Julia interacts with operating systems and other languages. You’ll also learn about the use of macros, what makes Julia suitable for numerical and scientific computing, and how to run external programs.
+
+Once you have grasped the basics, this Learning Path goes on how to analyze the Iris dataset using DataFrames. While building a web scraper and a web app, you’ll explore the use of functions, methods, and multiple dispatches. In the final chapters, you'll delve into machine learning, where you'll build a book recommender system.
 
 By the end of this Learning Path, you’ll be well versed with Julia and have the skills you need to leverage its high speed and efficiency for your applications.
 
